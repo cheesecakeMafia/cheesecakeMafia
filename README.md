@@ -9,4 +9,4 @@ Quant systems for Indian markets, and the tooling around them.
 
 Occasionally I build a game to learn something — [rust-game](https://github.com/cheesecakeMafia/rust-game), [system-design-game](https://github.com/cheesecakeMafia/system-design-game).
 
-Python · Rust · Bash · <cheesecakemafia07@gmail.com>
+Python · Rust · Bash 
